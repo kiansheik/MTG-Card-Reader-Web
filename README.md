@@ -1,10 +1,10 @@
 # MTG-Card-Reader-Web
 ## Site
-An early version of the site is currently hosted at [**mtg-cr.tk**](https://www.mtg-cr.tk)
+An [MoDiFiEd] early version of the site is currently hosted at [**mtg-cr.tk**](https://www.mtg-cr.tk) meant to extend functionality to all sets and run quickly.
 ## Info
 v2.0 of [MTG-Card-Reader](https://github.com/TrifectaIII/MTG-Card-Reader), built as a webpage.
 
-IN ACTIVE DEVELOPMENT. If you have any questions, complaints, suggestions, etc. feel free to contact me at maddenfong@gmail.com.
+IN ACTIVE DEVELOPMENT. If you have any questions, complaints, suggestions, etc. feel free to contact me at kiansheik3128@gmail.com.
 
 ## Resources
 Project is currently using these tools:
